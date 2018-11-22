@@ -1,2 +1,1 @@
-# NSO_TB2
-# NSO_TB2
+Trabalho 2 de NSO
