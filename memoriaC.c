@@ -5,7 +5,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-main()
+int main()
 {
    int pid, idfila, fd[2], estado;
    struct mensagem
